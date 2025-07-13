@@ -74,6 +74,7 @@ button{
     height: 83%;
 
     overflow: scroll;
+    overflow-x: hidden;
 }
 
 ul li{
